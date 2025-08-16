@@ -1,0 +1,8 @@
+openai
+anthropic
+transformers
+torch
+fastapi
+uvicorn
+pydantic
+requests
